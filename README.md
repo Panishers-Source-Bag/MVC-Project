@@ -116,4 +116,4 @@ Final Information
 
 - There's a bug that can happen with Dudley where he'll freeze his Focus Attack animation once it connects with the oponnent, this happened only once during a test playtrough of the Arcade mode (The Final normal boss Seth) and then it didn't happen after it, so watch out for that.
 
-- Somethimes many of the characters will not be able to connect a HP or HK after a MK for what i believe, their active frames are instant, making it somewhat annoying as this was not intended to be this way, you may have luck and connect those moves but only with a frame perfect timing as soon as the MK animation starts.
+- Sometimes many of the characters will not be able to connect a HP or HK after a MK for what i believe, their active frames are instant, making it somewhat annoying as this was not intended to be this way, you may have luck and connect those moves but only with a frame perfect timing as soon as the MK animation starts.
