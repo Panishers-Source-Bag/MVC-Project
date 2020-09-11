@@ -1,6 +1,12 @@
 # MVC-Project
 
 
+HOW TO INSTALL:
+
+Extract the file in your game's root, it will come with a backup for all files except the dll.
+
+
+
 Important Note:
 
 YOU NEED THE MOST UPDATED VERSION AND SPECIFICALLY THE "ULTRA" VERSION, OTHERWISE IT WILL NOT BE GUARANTEED THAT THIS MOD WORK WITH YOU COPY OF THE GAME
