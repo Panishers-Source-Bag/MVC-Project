@@ -101,6 +101,7 @@ For the Super Combos, now depending on the button pressed it will cost less or m
 LEVEL 1: Super Combo done with Low Attack - LEVEL 2: Super Combo done with Medium Atack - LEVEL 3: Super Combo done with High Attack
 
 QUICK NOTE 1: C. Viper is the only character in the game that has Reverse input levels of Super Combo
+
 QUICK NOTE 2: Because not every character in the game change properties depending on the button pressed, not everyone will use this new mechanic.
 
 
