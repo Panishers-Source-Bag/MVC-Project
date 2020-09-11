@@ -98,9 +98,7 @@ The only thing that was changed to the mayority of Super and Ultra Combos was th
 
 For the Super Combos, now depending on the button pressed it will cost less or more meter. The "Level of Super" works as the following:
 
-LEVEL 1: Super Combo done withLow Attack
-LEVEL 2: Super Combo done withMedium Atack
-LEVEL 3: Super Combo done withHigh Attack
+LEVEL 1: Super Combo done withLow Attack - LEVEL 2: Super Combo done withMedium Atack - LEVEL 3: Super Combo done withHigh Attack
 
 QUICK NOTE 1: C. Viper is the only character in the game that has Reverse input levels of Super Combo
 QUICK NOTE 2: Because not every character in the game change properties depending on the button pressed, not everyone will use this new mechanic.
