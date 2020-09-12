@@ -1,4 +1,4 @@
-# MVC-Project
+# MARVEL VS CAPCOM - PROJECT
 
 
 HOW TO INSTALL:
