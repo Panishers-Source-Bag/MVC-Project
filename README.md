@@ -125,6 +125,6 @@ Final Information
 
 Credits
 
-Ono Editor (Tool): Dantarion, Anotak, razor5070, Waterine, Gojira, Error1, illitirit, Piecemontee, Polarity, Providenceangle, Sindor, yeb, Zeipher (And Everyone who contributed in mayor/minor things =))
+Ono Editor (Tool): Dantarion, Anotak, razor5070, Waterine, Gojira, Error1, illitirit, Piecemontee, Polarity, Providenceangle, Sindor, yeb, Zeipher (And Everyone else who contributed in mayor/minor things =))
 
 Ono Editor (Wiki Page): Eternal
